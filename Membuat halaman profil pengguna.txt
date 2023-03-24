@@ -1,1 +1,1 @@
-Sebagai pengguna ingin dapat melihat detail informasi profil para pengguna
+Sebagai pengguna ingin dapat melihat detail informasi profil para pengguna.
